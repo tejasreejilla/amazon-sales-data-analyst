@@ -5,9 +5,13 @@ This project analyzes Amazon sales data to find trends, popular products, custom
 Features:
 
 Sales Trends: Analyze sales over time.
+
 Popular Products: Identify top-selling categories and sizes.
+
 Customer Behavior: Group customers based on their purchases.
+
 Geographical Sales: See which locations generate the most revenue.
+
 Recommendations: Suggestions to boost sales and improve operations.
 
 Tools Used:
